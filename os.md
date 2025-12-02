@@ -1,5 +1,4 @@
-mermaid
-```
+```mermaid
 sequenceDiagram
     participant A as Thread A
     participant B as Thread B
@@ -28,3 +27,4 @@ sequenceDiagram
     
     Note over Milk: Final: milk = 1
 ```
+
