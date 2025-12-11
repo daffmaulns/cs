@@ -63,7 +63,6 @@ erDiagram
     POLIS_MOBIL {
         string no_polis FK
         string no_polisi FK
-        PRIMARY_KEY (no_polis, no_polisi)
     }
     
     PEMBAYARAN_PREMI {
